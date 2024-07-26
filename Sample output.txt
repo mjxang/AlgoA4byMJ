@@ -1,0 +1,37 @@
+Sample Output for Standard Energy:
+Enter customer name:
+Bruce Willis
+Enter customer address:
+123rd Street
+Enter electricity usage (kWh):
+350
+Enter gas usage (units):
+150
+Is the customer using solar energy? (yes/no)
+no
+Customer Name: John Doe
+Address: 123 Elm Street
+Electricity Usage: 350.0 kWh
+Gas Usage: 150.0 units
+Total Bill: $67.50
+
+
+Sample Output for Green Energy:
+Enter customer name:
+Jane Plain
+Enter customer address:
+56 Oak Avenue
+Enter electricity usage (kWh):
+300
+Enter gas usage (units):
+100
+Is the customer using solar energy? (yes/no)
+yes
+Enter solar energy contribution (kWh):
+50
+Customer Name: Jane Smith
+Address: 456 Oak Avenue
+Electricity Usage: 300.0 kWh
+Gas Usage: 100.0 units
+Solar Energy Contribution: 50.0 kWh
+Total Bill after Solar Deduction: $42.50
